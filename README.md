@@ -9,3 +9,5 @@ A cidade do Recife é uma das mais famosas do Nordeste, ela possui diversos pont
 Abuse de sua criatividade para a criação da página! 
 
 Trabalhe esse código em seu IDE, suba ele para sua conta no GitHub e compartilhe o link desse projeto no campo ao lado para que outros desenvolvedores possam analisá-lo.
+
+## Lembrete: a tag `<span>` é categorizada como um tipo inline pois ocupa apenas o espaço do seu conteúdo.
